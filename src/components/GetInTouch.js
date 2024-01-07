@@ -57,9 +57,9 @@ const GetInTouch = () => {
           <input type="text" name="PhoneNumber" required placeholder='Phone Number' className='p-5 h-12 w-[200px] md:w-[270px] rounded-[14px] placeholder:text-757575 shadow-md shadow-fuchsia-400 focus:outline-none focus:border-none focus:ring-fuchsia-400'/>
         </div>
         <div className=''>
-          <textarea required name="Message" placeholder='Message' className="px-5 py-3 w-full md:w-[545px] h-[160px] rounded-[14px] placeholder:text-757575 shadow-md shadow-fuchsia-400 focus:outline-none focus:border-none focus:ring-fuchsia-400" ></textarea>
+          <textarea required name="Message" placeholder='Message' className="px-5 py-3 w-[95%] md:w-[545px] h-[160px] rounded-[14px] placeholder:text-757575 shadow-md shadow-fuchsia-400 focus:outline-none focus:border-none focus:ring-fuchsia-400" ></textarea>
         </div>
-        <button className="w-[80px] p-2 rounded-[8px] font-bold bg-gradient-to-r from-fuchsia-500 to-55106D text-white shadow-md shadow-fuchsia-400">Send</button>
+        <button className="w-[110px] p-2 rounded-[8px] font-bold bg-gradient-to-r from-fuchsia-500 to-55106D text-white shadow-md shadow-fuchsia-400">Send</button>
       </form>
     </div>
   )
