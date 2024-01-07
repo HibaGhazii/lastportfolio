@@ -19,7 +19,7 @@ const Navbar = () => {
   return (
     <nav className="bg-[url('../src/assets/img/banner-bg.png')] md:bg-none shadow-lg shadow-170826 md:shadow-none md:flex md:flex-row md:gap-12 text-center md:justify-end md:py-8 px-4 md:px-0 absolute top-0 left-0 right-0">
       <button onClick={toggleMenu} className="md:hidden text-white flex justify-end">
-        <img src="../assets/img/MenuIcon.svg" className="w-8 mt-3 mb-2" alt="Menu Icon" />
+        <img src="../assets/img/MenuIcon.svg" className="w-8 mt-3 mb-2" alt="Menu" />
       </button>
 
       <div className={`md:flex md:flex-row md:gap-12 text-left md:text-center md:justify-end md:py-10 px-4 md:px-28 ${isMenuOpen ? 'block' : 'hidden'}`}>
