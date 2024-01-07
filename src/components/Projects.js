@@ -56,42 +56,42 @@ const Projects = () => {
     {
       image: todolist,
       placeholderImage: todolist,
-      description:"Le site offre une liste de tâches à accomplir avec une date précise, permettant aux utilisateurs d'ajouter leurs propres tâches Développé avec : HTML,CSS et Javascipt"
+      description:"The website provides a list of tasks to be accomplished with specific deadlines, allowing users to add their own tasks. Developed with HTML, CSS, and JavaScript"
     },
     {
       image:rockPaperScissors,
       placeholderImage:rockPaperScissorsPlaceholder,
-      description:"Site qui propose un jeu de pierre-papier-ciseaux à jouer contre l'ordinateur avec fonction de lecture automatique. Développé avec : HTML,CSS et Javascipt"
+      description:"The website offers a rock-paper-scissors game to play against the computer with an automatic reading function. Developed with HTML, CSS, and JavaScript"
     },
     {
       image:react,
       placeholderImage:reactPlaceholder,
-      description:"Un site de Blogs dynamique, il offre la possibilité de créer, modifier, consulter les détails et supprimer les blogs en toute simplicité. Développé avec : React JS, HTML, Tailwind And JSON Server"
+      description:"A dynamic blog website that allows users to easily create, edit, view details, and delete blogs. Developed with React JS, HTML, Tailwind, and JSON Server."
     },
     {
       image: reactTodolist,
       placeholderImage: reactTodolist,
-      description:"L'interface offre une liste de tâches à accomplir, permettant aux utilisateurs d'ajouter leurs propres tâches Développé avec : React JS et Tailwind"
+      description:"The interface provides a list of tasks to accomplish, allowing users to add their own tasks. Developed with React JS and Tailwind"
     },
     {
       image: jsonBlogs,
       placeholderImage:jsonCreate,
-      description:"Un site de Blogs dynamique, il offre la possibilité de créer, modifier, consulter les détails et supprimer les blogs en toute simplicité. Développé avec : HTML, Tailwind, Javascript with JSON Server"
+      description:"A dynamic blog website that allows users to easily create, edit, view details, and delete blogs. Developed with HTML, Tailwind, JavaScript, and JSON Server."
     },
     {
       image:sonatrach,
       placeholderImage:sonatrachPlaceholder,
-      description:"Conception et réalisation d'un Système d'information Géographique(SIG) pour la gestion des périmètres d'exploration. Développé avec : HTML,CSS, Bootstrap, Javascipt, PHP, Laravel, leaflet, HeidiSQL,"
+      description:"Design and implementation of a Geographic Information System (GIS) for the management of exploration perimeters. Developed with HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, Leaflet, and HeidiSQL."
     },
     {
       image:infrarail,
       placeholderImage: infrarailPlaceholder,
-      description:"Site dynamique pour une entreprise ferroviaire. Développé avec : HTML/CSS, Booststrap, Javascipt, PHP, MySql"
+      description:"Dynamic website for a railway company. Developed with HTML/CSS, Bootstrap, JavaScript, PHP, and MySQL."
     },
     {
       image:mezghena,
       placeholderImage:mezghenaPlaceholder,
-      description:"Site dynamique pour une entreprise. Développé avec : React js, Tailwind, Flowbite (la suite est en cours de réalisation avec Node Js, Express Js et MysQL)"
+      description:"Dynamic website for a company. Developed with React.js, Tailwind, and Flowbite (the suite is currently being implemented with Node.js, Express.js, and MySQL)."
     },
   ];
 
@@ -99,12 +99,12 @@ const Projects = () => {
     {
       image:amazon,
       placeholderImage:amazonPlaceholder,
-      description:"Site vente et achat des vêtements (Amazon design). Développé avec : Python, Django, Bootstrap, HTML, JavaScript"
+      description:"E-commerce website for buying and selling clothes with an Amazon design. Developed with Python, Django, Bootstrap, HTML, and JavaScript."
     },
     {
       image:shop,
       placeholderImage:shopPlaceholder,
-      description:"Site vente et achat des vêtements (e-commerce). Développé avec : Python, Django, Bootstrap, HTML, JavaScript"
+      description:"E-commerce website for buying and selling clothes. Developed with Python, Django, Bootstrap, HTML, and JavaScript."
     },
   ];
 
@@ -112,11 +112,11 @@ const Projects = () => {
     {
       image:figma,
       placeholderImage:figmaPlaceholder,
-      description:"Ce design expose mes compétences, mes projets, mes réalisations et mon expertise dans le domaine du développement web .Fait avec: Figma "
+      description:"This design showcases my skills, projects, achievements, and expertise in the field of web development. Created with Figma."
     },{
       image:canva,
       placeholderImage:canvaPlaceholder,
-      description:"Ce design expose mes compétences, mes projets, mes réalisations et mon expertise dans le domaine du développement web .Fait avec: Canva"
+      description:"This design highlights my skills, projects, achievements, and expertise in the field of web development. Created with Canva."
     }
   ];
 

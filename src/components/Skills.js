@@ -9,11 +9,11 @@ const Skills = () => {
       <div className='mb-4 md:mb-0'>
         <p className='text-2xl font-bold mb-3'>Skills</p>
         {/* <p className='mx-28'>En tant que développeuse, je possède les compétences suivantes : </p> */}
-        <p>→ Maîtrise des langages tels que JavaScript, HTML, CSS, et PHP</p>
-        <p>→ Expérience pratique avec des frameworks comme React.js</p>
-        <p>→ Conception et gestion de bases de données SQL et NoSQL</p>
-        <p>→ Utilisation fréquente d'outils de développement tels que Git et npm</p>
-        <p>→ Compétences en UI/UX Design pour créer des expériences utilisateur</p>
+        <p>→ Proficiency in languages such as JavaScript, HTML, CSS, and PHP</p>
+        <p>→ Practical experience with frameworks like React js</p>
+        <p>→ Design and management of SQL and NoSQL databases.</p>
+        <p>→ Regular use of development tools such as Git and npm.</p>
+        <p>→ UI/UX Design skills for creating user experiences</p>
        
       </div>
       <div className='hidden md:inline-flex md:flex-row md:justify-between md:mt-12 mx-12 md:gap-6 lg:gap-28'>
