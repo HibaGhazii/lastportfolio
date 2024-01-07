@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/lastportfolio/static/css/main.34fcfff9.css",
+    "main.js": "/lastportfolio/static/js/main.dd248215.js",
+    "static/media/mezghena.png": "/lastportfolio/static/media/mezghena.a469f87207fe6820a900.png",
+    "static/media/infrarail1.PNG": "/lastportfolio/static/media/infrarail1.fb8882ab5a204ff0f073.PNG",
+    "static/media/portfolio.PNG": "/lastportfolio/static/media/portfolio.f677bcb8b165993a09ef.PNG",
+    "static/media/sonatrach.PNG": "/lastportfolio/static/media/sonatrach.c8d88770b44762c31690.PNG",
+    "static/media/mezghena-placeholder.png": "/lastportfolio/static/media/mezghena-placeholder.c4e11e5e95ff15ef72fd.png",
+    "static/media/portfolio-canva.PNG": "/lastportfolio/static/media/portfolio-canva.98387adb61f1f061f663.PNG",
+    "static/media/placeholder.PNG": "/lastportfolio/static/media/placeholder.8206843430ba70a55242.PNG",
+    "static/media/todolist.PNG": "/lastportfolio/static/media/todolist.24be2064ab07bdb3d8c1.PNG",
+    "static/media/amazon.PNG": "/lastportfolio/static/media/amazon.9a3b0c418cbbf4f156ba.PNG",
+    "static/media/CV-GHAZI-HIBA.pdf": "/lastportfolio/static/media/CV-GHAZI-HIBA.e1b9bca6a950ac06d11a.pdf",
+    "static/media/index.PNG": "/lastportfolio/static/media/index.1790be91f9a384a50cca.PNG",
+    "static/media/2.PNG": "/lastportfolio/static/media/2.5671c0980918ed31b70d.PNG",
+    "static/media/banner-bg.png": "/lastportfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/lastportfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/blogs.PNG": "/lastportfolio/static/media/blogs.29c77bc79c1112fc2cbd.PNG",
+    "static/media/footer-bg.png": "/lastportfolio/static/media/footer-bg.21d1afd0e8a6aab660ac.png",
+    "static/media/add.PNG": "/lastportfolio/static/media/add.a8aad150f8256b7eb71c.PNG",
+    "static/media/contact-img.svg": "/lastportfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/rock-paper-scissor.PNG": "/lastportfolio/static/media/rock-paper-scissor.6721bdd726acec8c0977.PNG",
+    "static/media/rock-paper-scissors-placeholder.PNG": "/lastportfolio/static/media/rock-paper-scissors-placeholder.60575c4b20a1866fd774.PNG",
+    "static/media/create.PNG": "/lastportfolio/static/media/create.bdcb98f87205babc7a3d.PNG",
+    "static/media/meter2.svg": "/lastportfolio/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/lastportfolio/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/lastportfolio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "index.html": "/lastportfolio/index.html",
+    "main.34fcfff9.css.map": "/lastportfolio/static/css/main.34fcfff9.css.map",
+    "main.dd248215.js.map": "/lastportfolio/static/js/main.dd248215.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34fcfff9.css",
+    "static/js/main.dd248215.js"
+  ]
+}
