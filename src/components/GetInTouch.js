@@ -14,7 +14,7 @@ const GetInTouch = () => {
       .then((result) => {
           console.log("message sent");
           window.alert("Message sent successfully!");
-          window.location.href = '/App.js';
+          window.location.href = '/';
       }, (error) => {
           console.log(error.text);
           window.alert("Error sending message. Please try again later.");
